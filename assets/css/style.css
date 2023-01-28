@@ -106,3 +106,39 @@ h2{
 .active{
     border-bottom: 1px solid #777777;
 }
+
+#club-ethos
+{
+    height: 600px;
+}
+
+#left-about
+{
+    padding-top: 30px;
+    width: 33%;
+    float: left;
+}
+
+#right-about
+{
+    padding-top: 30px;
+    width: 33%;
+    float: right;
+    background-color: silver;
+}
+
+#center-about
+{
+    width: 33%;
+     margin: auto;
+     background-color: green;
+}
+
+.left-about-heading
+{
+    width: 50%;
+    float: right;
+    line-height: 20px;
+    clear: both;
+     margin-bottom: 50px;
+}
